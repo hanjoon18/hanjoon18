@@ -1,3 +1,4 @@
+![snake gif](https://github.com/hanjoon18/hanjoon18/blob/output/github-contribution-grid-snake.gif)
 <p>🎈HanJoon🎈<br>
 <a href="https://www.instagram.com/hanjoon87/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a></p>
 <p>📖Studying📖<br>
