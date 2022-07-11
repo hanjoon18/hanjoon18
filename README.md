@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
 </p>
 
 ---
